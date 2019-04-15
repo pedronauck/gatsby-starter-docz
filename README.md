@@ -8,7 +8,7 @@
   Gatsby's Docz starter
 </h1>
 
-## 👀 Look at [the Demo]()
+## 👀 Look at [the Demo](https://gatsby-docz.netlify.com)
 
 Start to write your library documentation or your design system with Docz and Gatsby in a very simple way with this starter.
 It's included in it some basic setup using [gatsby-theme-docz](https://github.com/pedronauck/docz/tree/master/core/gatsby-theme-docz) and a blog using Gatsby features.
