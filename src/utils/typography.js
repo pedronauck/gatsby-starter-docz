@@ -8,12 +8,12 @@ FairyGates.bodyFontFamily = ['Source Sans Pro']
 FairyGates.overrideThemeStyles = () => {
   return {
     a: {
-      color: colors.blue,
+      color: colors.primary,
       background: 'none',
       textShadow: 'none',
     },
     blockquote: {
-      borderLeftColor: colors.blue,
+      borderLeftColor: colors.primary,
     },
   }
 }
