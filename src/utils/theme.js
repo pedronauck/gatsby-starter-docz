@@ -16,7 +16,7 @@ export default {
   buttons: {
     primary: {
       color: '#fff',
-      backgroundColor: colors.blue,
+      backgroundColor: colors.primary,
       fontWeight: '600',
     },
   },

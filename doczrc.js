@@ -7,7 +7,7 @@ export default {
   menu: ['Getting Started', 'Components'],
   themeConfig: {
     colors: {
-      primary: colors.blue,
+      primary: colors.primary,
     },
   },
 }
