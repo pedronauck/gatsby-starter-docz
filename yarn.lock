@@ -4435,17 +4435,17 @@ docz-core@^1.0.2:
     ws "^6.2.1"
     yargs "^13.2.2"
 
-docz-theme-default@1.0.2, docz-theme-default@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.npmjs.org/docz-theme-default/-/docz-theme-default-1.0.2.tgz#f99f884b8945812fbc246726a88c4f0bd7542d4d"
-  integrity sha512-9+f0rln/0Iky7F9FH8WBpdt9Lz2YSH3QxllDgykAbkoekPG0Ryx5M23uxiMY0pBzdVTmmw9it+3zAWTjRVg63w==
+docz-theme-default@1.0.3, docz-theme-default@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.npmjs.org/docz-theme-default/-/docz-theme-default-1.0.3.tgz#1ce70b4c9de4d549a5ffe3ac125a642e4aec38ee"
+  integrity sha512-4KYkyTbkvZSFm2OsZ6CyNBjs7nTuShI/kk4628AahCKowxr3giiL1HdwI9COVrLojeQrLkUEYKDM3yXw1W05BQ==
   dependencies:
     "@loadable/component" "^5.7.0"
     "@reach/router" "^1.2.1"
     "@tippy.js/react" "^2.1.2"
     codemirror "^5.45.0"
     copy-text-to-clipboard "^2.1.0"
-    docz "^1.0.2"
+    docz "^1.0.3"
     facepaint "^1.2.1"
     hotkeys-js "^3.6.2"
     lodash "^4.17.11"
@@ -4489,10 +4489,10 @@ docz-utils@^1.0.2:
     unist-util-is "^2.1.2"
     unist-util-visit "^1.4.0"
 
-docz@1.0.2, docz@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.npmjs.org/docz/-/docz-1.0.2.tgz#157a83aada8c69a2111eea539e2ad06325eb60ae"
-  integrity sha512-MVUHfyzVW5pxCibxI2wNS9HVsJjKk/H9sR61fotThWyzLipEbllrklfxqr4i2CgQh6xSOPijeHpRSjJqR4cPiA==
+docz@1.0.3, docz@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.npmjs.org/docz/-/docz-1.0.3.tgz#3397f707ada11c52ae47c27d3eb4a7d4561aacfb"
+  integrity sha512-/JuB2WgPhE/G0RZIFW4VqV7iE8tn0UyyxIB9yWgPQLgFyiQq0iDKO8a8JD6zZr+dHDLlIRJAuVSU2OxjoifHxQ==
   dependencies:
     "@loadable/component" "^5.7.0"
     "@mdx-js/react" "^1.0.2"
@@ -6144,19 +6144,19 @@ gatsby-telemetry@^1.0.7:
     stack-utils "1.0.2"
     uuid "3.3.2"
 
-gatsby-theme-docz@1.0.2:
-  version "1.0.2"
-  resolved "https://registry.npmjs.org/gatsby-theme-docz/-/gatsby-theme-docz-1.0.2.tgz#abc736892868b07212d042e7f93427032e88ee87"
-  integrity sha512-C0gYsvt3466jpGege4pTK4LzxiIaUxJaPNvN+9hsDK7tPyr/NtG8+aXeRX2OfJHEIT8fCqjL0pJ3waScVdPXiA==
+gatsby-theme-docz@1.0.3:
+  version "1.0.3"
+  resolved "https://registry.npmjs.org/gatsby-theme-docz/-/gatsby-theme-docz-1.0.3.tgz#90e2de84c903fb3fdb37b74e8acfff683f8ddf03"
+  integrity sha512-n3E/mxNR8fUzPqEzXapz/3xGNdWi/Q1zLuoRDW6B1Rjw9zSyVRasBOFJIsdCFtm4d6SF2uXQ5EBNl+jMR23LOg==
   dependencies:
     "@mdx-js/mdx" "^1.0.5"
     "@mdx-js/react" "^1.0.2"
     babel-plugin-export-metadata "^1.0.2"
     change-case "^3.1.0"
     chokidar "^2.1.5"
-    docz "^1.0.2"
+    docz "^1.0.3"
     docz-core "^1.0.2"
-    docz-theme-default "^1.0.2"
+    docz-theme-default "^1.0.3"
     docz-utils "^1.0.2"
     fs-extra "^7.0.1"
     gatsby "^2.3.23"
