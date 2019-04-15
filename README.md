@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://github.com/pedronauck/docz">
-    <img alt="Gatsby" src="/static/preview.png" width="60" />
+    <img alt="Gatsby" src="/static/preview.png" width="100%" />
   </a>
 </p>
 <h1 align="center">

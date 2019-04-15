@@ -1,6 +1,6 @@
 {
   "name": "@pedronauck/gatsby-starter-docz",
-  "description": "A starter with Docz and a Blog for a library documentation on design system",
+  "description": "Gatsby starter with Docz and a blog for your documentation",
   "version": "0.0.1",
   "author": "Pedro Nauck <pedronauck@gmail.com>",
   "bugs": {

@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Coolest Library`,
     author: `Pedro Nauck`,
-    description: `A starter with Docz and a Blog for a library documentation on design system`,
+    description: `Gatsby starter with Docz and a blog for your documentation`,
   },
   __experimentalThemes: [
     {
